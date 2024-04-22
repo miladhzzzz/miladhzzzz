@@ -1,9 +1,14 @@
-## Hey 👋, I'm Milad Hosseini!
-I am a versatilist and easily adapt to different hats (Golang Developer 🌐, Python Developer 📱, DevOps Engineer 🤖 and System Designer + cloud architect) depending on what the project requires. I love exploring new tech 💻 and leveraging them to build awesome  tools 🛠️. 
+## Hey 👋, I'm Milad!
+I am a highly experienced Systems Engineer with a diverse background in data center gineering, cyber security, and development using PHP, Bash, Golang, Python, C, and Rust. With over 7 years of professional experience, I have demonstrated exceptional ability to learn complex topics and implement, design, and deploy Highly Available, Scalable, Distributed systems. I have worked on projects in live systems with millions of customers, which has enabled me to adapt to whatever comes my way. 🛠️. 
 <br/>
 <br/>
 # 💫  More About Me:
-🔭 I’m currently working on persys.io DevOps-as-a-service platform<br>👯 I’m collaboratin on kubernetes/sig-apimachinery<br>🤝 I’m looking for help react/js<br>🌱 I’m currently learning rust<br>💬 Ask me about anything.<br>⚡ you can reach me in discord or linkedin
+🔭 I’m currently working on persys cloud an open source cloud provider.<br>
+👯 I’m collaboratin on kubernetes/sig-apimachinery<br>
+🤝 I’m looking for help react/js<br>
+🌱 I’m currently learning rust<br>
+💬 Ask me about anything.<br>
+⚡ you can reach me on discord or linkedin
 
 
 ## 🌐 Socials:
