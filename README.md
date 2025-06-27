@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Milad!
-I am a highly experienced Systems Engineer with a diverse background in data center gineering, cyber security, and development using PHP, Bash, Golang, Python, C, and Rust. With over 7 years of professional experience, I have demonstrated exceptional ability to learn complex topics and implement, design, and deploy Highly Available, Scalable, Distributed systems. I have worked on projects in live systems with millions of customers, which has enabled me to adapt to whatever comes my way. 🛠️. 
+I am a seasoned Site Reliability Engineer with over 7 years of experience in designing, deploying, and managing highly available, scalable, and distributed systems. My background spans data center engineering, cybersecurity, and development across multiple programming languages, including PHP, Bash, Golang, Python, C++, C, and Rust. As an SRE at a high-scale cloud provider, I worked closely with customers and teams to ensure seamless performance and security for systems supporting millions of users.
+
+I excel at collaborating with others to deliver robust, efficient solutions that drive customer and developer satisfaction. My experience managing critical, large-scale services has sharpened my ability to proactively maintain reliability and security while adapting to complex, fast-paced challenges. Passionate about empowering organizations through technology, I thrive on building systems that make a real impact.
 <br/>
 <br/>
 # 💫  More About Me:
