@@ -23,6 +23,9 @@ I excel at collaborating with others to deliver robust, efficient solutions that
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=miladhzzzz&theme=dark&hide_border=true)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miladhzzzz&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 Coding Languages
+![Coding Languages](https://wakatime.com/share/@b16b8dc9-395b-44ff-8c32-4e311ee21ca9/513f8cf9-e169-4a8e-be9c-81ab92156749.svg)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
