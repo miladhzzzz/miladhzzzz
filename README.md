@@ -4,14 +4,6 @@ I am a seasoned Site Reliability Engineer with over 7 years of experience in des
 I excel at collaborating with others to deliver robust, efficient solutions that drive customer and developer satisfaction. My experience managing critical, large-scale services has sharpened my ability to proactively maintain reliability and security while adapting to complex, fast-paced challenges. Passionate about empowering organizations through technology, I thrive on building systems that make a real impact.
 <br/>
 <br/>
-# 💫  More About Me:
-🔭 I’m currently working on persys cloud an open source cloud provider.<br>
-👯 I’m collaboratin on kubernetes/sig-apimachinery<br>
-🤝 I’m looking for help react/js<br>
-🌱 I’m currently learning rust<br>
-💬 Ask me about anything.<br>
-⚡ you can reach me on discord or linkedin
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pCtsFxt2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milad-hosseini-792095a7) 
@@ -29,7 +21,3 @@ I excel at collaborating with others to deliver robust, efficient solutions that
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=miladhzzzz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
